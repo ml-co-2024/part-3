@@ -32,6 +32,8 @@ docplex = "^2.27.239"
 ortools = "^9"
 rise = "^5.7.1"
 pydot = "^2.0.0"
+tensorflow-probability = "^0.24.0"
+tf-keras = "^2.16.0"
 
 
 [build-system]
